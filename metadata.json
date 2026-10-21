@@ -1,0 +1,8 @@
+{
+  "name": "The Reps Fitness Premium Ranjit Avenue Amritsar",
+  "description": "The Reps Fitness Premium - Luxury Fitness Club & Gym in SCO 52-53, 5th Floor, D-Block, Ranjit Avenue, Amritsar. Strength & Performance, CrossFit, Indoor Cycling, Zumba, Yoga, Luxury Saunas & Steam. Rated 4.9★ (857+ Google Reviews).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
